@@ -1,4 +1,4 @@
-# Digital Shop Research Tool
+Listing Optimizer
 
 A personal browser extension to help research 
 public listing data on Etsy while preparing to 
